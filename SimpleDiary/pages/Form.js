@@ -3,7 +3,7 @@ import { Text } from "react-native";
 
 import Container from "../components/Container";
 import Contents from "../components/Contents";
-import Button from "../components/Button";
+import Button from "../components/Button";ㅇ
 
 import styled from "styled-components";
 
